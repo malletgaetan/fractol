@@ -4,7 +4,7 @@
 
 Clone the repository
 ```bash
-git clone https://github.com/malletgaetan/fractol.git &&
+git clone https://github.com/malletgaetan/fractol.git
 ```
 
 Build the binary

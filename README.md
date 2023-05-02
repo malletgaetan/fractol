@@ -15,7 +15,7 @@ make
 
 Execute the binary
 ```bash
-./fractol
+./fractol "mandelbrot"
 ```
 
 ## How to compute mandelbrot

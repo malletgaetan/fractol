@@ -31,7 +31,7 @@
 # include <X11/keysym.h>
 # include <math.h>
 # include "../minilibx-linux/mlx.h"
-# include "../libft/includes/libft.h"
+# include "../libft/libft.h"
 
 typedef struct s_complex
 {

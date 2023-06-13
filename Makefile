@@ -19,7 +19,7 @@ _SRCS = main.c \
 
 SRCS = $(addprefix $(SRCSDIR), $(_SRCS))
 
-.PHONY: all fclean re
+.PHONY: all re clean fclean
 
 all: $(NAME)
 
